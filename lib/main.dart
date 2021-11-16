@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'autocomplete/autocomplete_example.dart';
-
 void main() {
   runApp(
     MaterialApp(
@@ -19,7 +17,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      body: AutocompleteExample(),
+      body: Container(),
     );
   }
 }

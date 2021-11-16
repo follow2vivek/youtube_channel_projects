@@ -12,7 +12,6 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  http:
   google_fonts:
 
 dev_dependencies:
